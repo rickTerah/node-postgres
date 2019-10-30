@@ -1,3 +1,1 @@
 # node-postgres
-
-## Hello world
